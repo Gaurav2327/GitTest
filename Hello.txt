@@ -1,4 +1,3 @@
 Hello Github !
 This is gaurav dhapola 
-here we will be working on Github repo for new items and git stash .
-git stash
+here we will be working on Github repo for new items and git stash
