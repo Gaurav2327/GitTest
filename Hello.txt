@@ -1,4 +1,4 @@
-Hello Github !
-This is gaurav dhapola 
+Hello GitHub !
+This is Gaurav Dhapola 
 here we will be working on Github repo for new items and git stash
 Tata Byy Byy
